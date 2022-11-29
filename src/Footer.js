@@ -6,7 +6,7 @@ export default function Footer() {
     <p className="Footer">
       This project was coded by Natalie Dub and  
       <a
-        href="https://github.com/favoritewillow/weather-app"
+        href="https://github.com/favoritewillow/react-weather"
         target="_blank"
         rel="noreferrer"
       >
